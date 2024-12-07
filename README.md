@@ -7,7 +7,7 @@ A to-do list app built with Laravel 10, which I use as a template for my other L
 
 ## Installation
 1. Create a database
-2. Copy the ```.env.example``` file and rename it to ```.env```
+2. In the root directory of this repo, copy the ```.env.example``` file and rename it to ```.env```
 3. Edit the ```.env``` file to match your environment configuration
 4. Execute
 ```bash
